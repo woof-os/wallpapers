@@ -1,6 +1,11 @@
 # Wallpapers For Woof OS
-![wall](0000.png)
-![wall](0001.png)
-![wall](0002.png)
-![wall](0003.png)
-![wall](0004.png)
+
+## Wallpapers Drawn
+![Wallpaper By sora6kq](drawn/woof.png)
+
+## Wallpapers Generated Using Haikei
+![wall](generated/0000.png)
+![wall](generated/0001.png)
+![wall](generated/0002.png)
+![wall](generated/0003.png)
+![wall](generated/0004.png)
