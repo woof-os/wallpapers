@@ -8,4 +8,3 @@
 ![wall](generated/0001.png)
 ![wall](generated/0002.png)
 ![wall](generated/0003.png)
-![wall](generated/0004.png)
